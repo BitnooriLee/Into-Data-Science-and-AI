@@ -89,13 +89,13 @@ Demonstrate reflection in all of your learning
 ## Project Summary 
  
  * [Assignment 1: Introduction to Data Science and Python](https://github.com/BitnooriLee/Into-Data-Science-and-AI/blob/main/DAT405_Assignment_1.ipynb)
- * [Assignment 2:Regression and classification](https://choosealicense.com)
+ * [Assignment 2:Regression and classification](https://www.overleaf.com/read/fdghmcqhrshy)
  * [Assignment 3: Clustering](https://github.com/BitnooriLee/Into-Data-Science-and-AI/blob/main/DAT405_Assignment_3.ipynb) 
  * [Assignment 4: Spam classification using Naïve Bayes](https://github.com/BitnooriLee/Into-Data-Science-and-AI/blob/main/DAT405_Assignment_4.ipynb)
  * [Assignment 5: Reinforcement Learning](https://github.com/BitnooriLee/Into-Data-Science-and-AI/blob/main/DAT405_Assignment_5.ipynb)
  * [Assignment 6: AI and Ethics](https://choosealicense.com)
  * [Assignment 7: Neural Networks](https://github.com/BitnooriLee/Into-Data-Science-and-AI/blob/main/Assignment_7_NN_Bitnoori_Lee.ipynb)
- * [Assignment 8: Rule Based AI and Search]
+ * [Assignment 8: Rule Based AI and Search](https://www.overleaf.com/read/bzpszqhgtsxg)
 
 
 ### Built With
