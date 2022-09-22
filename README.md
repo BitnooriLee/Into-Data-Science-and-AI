@@ -93,7 +93,7 @@ Demonstrate reflection in all of your learning
  * [Assignment 3: Clustering](https://github.com/BitnooriLee/Into-Data-Science-and-AI/blob/main/DAT405_Assignment_3.ipynb) 
  * [Assignment 4: Spam classification using Naïve Bayes](https://github.com/BitnooriLee/Into-Data-Science-and-AI/blob/main/DAT405_Assignment_4.ipynb)
  * [Assignment 5: Reinforcement Learning](https://github.com/BitnooriLee/Into-Data-Science-and-AI/blob/main/DAT405_Assignment_5.ipynb)
- * [Assignment 6: AI and Ethics](https://choosealicense.com)
+ * [Assignment 6: AI and Ethics](https://www.overleaf.com/read/dzpkrrdgwdng)
  * [Assignment 7: Neural Networks](https://github.com/BitnooriLee/Into-Data-Science-and-AI/blob/main/Assignment_7_NN_Bitnoori_Lee.ipynb)
  * [Assignment 8: Rule Based AI and Search](https://www.overleaf.com/read/bzpszqhgtsxg)
 
