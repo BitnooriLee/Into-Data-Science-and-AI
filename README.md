@@ -1,5 +1,5 @@
 
-
+<a name="readme-top"></a>
 
 
 
@@ -13,6 +13,7 @@
   <p align="center">
     An awesome Into-Data-Science-and-AI project!
     <br />
+     <br />
     <a href="https://chalmers.instructure.com/courses/18394"><strong>Explore course homepage »</strong></a>
     <br />
     <br />
